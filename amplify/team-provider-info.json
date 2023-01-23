@@ -1,0 +1,15 @@
+{
+  "local": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lambdatriggerexampl-local-160343-authRole",
+      "UnauthRoleArn": "arn:aws:iam::558674009188:role/amplify-lambdatriggerexampl-local-160343-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::558674009188:role/amplify-lambdatriggerexampl-local-160343-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-lambdatriggerexampl-local-160343-deployment",
+      "UnauthRoleName": "amplify-lambdatriggerexampl-local-160343-unauthRole",
+      "StackName": "amplify-lambdatriggerexampl-local-160343",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:558674009188:stack/amplify-lambdatriggerexampl-local-160343/145e09e0-9aec-11ed-b74e-06da50389a02",
+      "AmplifyAppId": "dgq4qbygad4dd"
+    }
+  }
+}
